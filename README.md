@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Rohan
 
-<!--
-**rohseh303/rohseh303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered apps and full-stack tooling, especially for Broccoli.com.
 
-Here are some ideas to get you started:
+- Engineering: Worked on production-grade systems—from frontend interfaces to backend APIs and data pipelines.  
+- AI/ML: Developed AI applications that tackle real-world problems, with integrations across web and cloud stacks.  
+- Side projects: Created CampusCuisine (a student food app) and other quick prototypes that sharpened my skills.  
+- What drives me: I enjoy designing systems that feel solid, look clean, and actually help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out the pinned repositories above to see a mix of engineering depth and creative experimentation.
+
+---
+
+### Find me online  
+[LinkedIn](https://www.linkedin.com/in/rohansehgal2/) • [GitHub Projects](https://github.com/rohsehgal)
