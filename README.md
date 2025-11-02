@@ -12,4 +12,4 @@ Check out the pinned repositories above to see a mix of engineering depth and cr
 ---
 
 ### Find me online  
-[LinkedIn](https://www.linkedin.com/in/rohansehgal2/) • [GitHub Projects](https://github.com/rohsehgal)
+[LinkedIn](https://www.linkedin.com/in/rohansehgal2/)
