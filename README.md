@@ -1,9 +1,14 @@
 # Hi, I’m Rohan
 
-I build AI-powered apps and full-stack tooling, especially for Broccoli.com.
+I’m a software engineer working on identity systems at Tools for Humanity.
 
----
+Previously, I was employee #3 and a founding engineer at Broccoli, where I helped scale the company from $0 to $10M+ ARR and built systems powering millions of AI voice calls.
+
+### What I’m working on
+
+- AI systems, infrastructure, and identity
+- RL training environments and small-model experiments
+- Developer tools that make complex systems easier to operate
 
 ### Find me online  
-[LinkedIn](https://www.linkedin.com/in/rohansehgal2/)
-[Personal Website](https://www.rohansehgal.me)
+[Website](https://www.rohansehgal.me) · [LinkedIn](https://www.linkedin.com/in/rohansehgal2/) · [X](https://x.com/rosehgal)
