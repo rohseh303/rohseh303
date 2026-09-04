@@ -1,6 +1,6 @@
 # Hi, I’m Rohan
 
-I’m a software engineer working on identity systems at Tools for Humanity.
+I’m a software engineer at Tools for Humanity.
 
 Previously, I was employee #3 and a founding engineer at Broccoli, where I helped scale the company from $0 to $10M+ ARR and built systems powering millions of AI voice calls.
 
